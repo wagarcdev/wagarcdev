@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WagnerArcieri
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning System Analysis and Development
+- 👀 I’m interested in Learning C, C++, Java and Kotlin for App Development
+- 🌱 I’m currently a undergraduate student of System Analysis and Development
 - 💞️ I’m looking to collaborate on whatever I can
 - 📫 How to reach me -> wagner.arcieri@gmail.com
 
