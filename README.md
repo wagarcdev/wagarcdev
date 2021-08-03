@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WagnerArcieri
+- 👋 Hi, I’m Wagner Arcieri !
 - 👀 I’m interested in Learning C, C++, Java and Kotlin for App Development
 - 🌱 I’m currently a undergraduate student of System Analysis and Development
 - 💞️ I’m looking to collaborate on whatever I can
