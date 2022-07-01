@@ -18,6 +18,7 @@
 Here you will find some of my latest projects made for study cases and some template Apps ready to be customized. Please, feel free to make Forks, PRs, inform Issues or make comments. All suggestions are appreciated !
 
 &nbsp;
+<img width=450 src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="right" />
 
 📫 How to reach me : \
 &nbsp; 
@@ -27,7 +28,6 @@ Here you will find some of my latest projects made for study cases and some temp
 
 
  
-<img width=450 src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="right" />
 
 &nbsp; \
 &nbsp; \
