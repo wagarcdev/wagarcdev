@@ -1,4 +1,4 @@
-<img src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/androiddevelopment.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" >
+<img src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/buildingapp.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" >
 
 
 ### Hello ! 
@@ -9,7 +9,8 @@
 &nbsp;
 &nbsp;
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  />&nbsp;&nbsp;&nbsp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> 
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"  />&nbsp;&nbsp;&nbsp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> 
 
 &nbsp;
 &nbsp;
