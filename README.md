@@ -14,7 +14,7 @@ Here you will find some of my latest projects made for study cases and some temp
 
 &nbsp;
  
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+&nbsp;<img height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  />&nbsp;<img height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  />&nbsp;<img height=35 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
           
 
 
