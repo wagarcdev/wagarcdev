@@ -22,9 +22,9 @@ Here you will find some of my latest projects made for study cases and some temp
 &nbsp;
  
 
-&nbsp;&nbsp;&nbsp;📫 How to reach me : \
-&nbsp;&nbsp;&nbsp; -> [wagner.arcieri@gmail.com](mailto:wagner.arcieri@gmail.com)\
-&nbsp;&nbsp;&nbsp; -> [LinkedIn](https://www.linkedin.com/in/wagner-arcieri/)</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me : \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> [wagner.arcieri@gmail.com](mailto:wagner.arcieri@gmail.com)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -> [LinkedIn](https://www.linkedin.com/in/wagner-arcieri/)</br>
 
  
 
