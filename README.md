@@ -16,6 +16,9 @@ Here you will find some of my latest projects made for study cases and some temp
  
 <img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  /><img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  />
 
+ <img src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="right" />
+
+
 &nbsp;
  
 📫 How to reach me : \
@@ -23,7 +26,6 @@ Here you will find some of my latest projects made for study cases and some temp
  -> [LinkedIn](https://www.linkedin.com/in/wagner-arcieri/)</br>
 
  
- <img src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="right" />
 
 
 
