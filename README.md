@@ -5,7 +5,6 @@
 ### Hello ! I am Wagner Arcieri, an Android Developer. 
 ### Thanks for visiting my repositories !</br>
 
-<code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></code>
 
 
 &nbsp;
@@ -16,6 +15,9 @@ Here you will find some of my latest projects made for study cases and some temp
 📫 How to reach me : \
  -> [wagner.arcieri@gmail.com](mailto:wagner.arcieri@gmail.com)\
  -> [LinkedIn](https://www.linkedin.com/in/wagner-arcieri/)</br>
+ 
+ <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></code>
+
  
  <img src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="right" />
 
