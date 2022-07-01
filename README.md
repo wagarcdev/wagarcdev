@@ -18,10 +18,11 @@
 Here you will find some of my latest projects made for study cases and some template Apps ready to be customized. Please, feel free to make Forks, PRs, inform Issues or make comments. All suggestions are appreciated !
 
 &nbsp;
-<img width=450 src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="right" />
 
 📫 How to reach me : \
 &nbsp; 
+<img width=450 src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="right" />
+
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/wagner-arcieri/"><img height=50 src="https://cdn2.iconfinder.com/data/icons/social-micon/512/linkedin-512.png"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:wagner.arcieri@gmail.com"><img height=50 src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png"/>
 </a></br>
