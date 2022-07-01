@@ -10,8 +10,8 @@
 - 🌱 I’m currently a undergraduate student of System Analysis and Development
 - 💞️ I’m looking to collaborate on whatever I can</br>
 
-- 📫 How to reach me :
- -> [wagner.arcieri@gmail.com](mailto:wagner.arcieri@gmail.com)
+- 📫 How to reach me : \
+ -> [wagner.arcieri@gmail.com](mailto:wagner.arcieri@gmail.com)\
  -> [LinkedIn](https://www.linkedin.com/in/wagner-arcieri/)</br>
 
 
