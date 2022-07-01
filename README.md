@@ -18,6 +18,9 @@
 Here you will find some of my latest projects made for study cases and some template Apps ready to be customized. Please, feel free to make Forks, PRs, inform Issues or make comments. All suggestions are appreciated !
 
 &nbsp;
+&nbsp;
+&nbsp;
+
 
 📫 How to reach me : \
 &nbsp; 
