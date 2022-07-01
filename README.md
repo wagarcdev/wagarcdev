@@ -8,9 +8,7 @@
 &nbsp;
 
 
-- 👀 I’m interested Java and Kotlin for Android Development
-- 🌱 I’m currently a undergraduate student of System Analysis and Development
-- 💞️ I’m looking to collaborate on whatever I can</br>
+Here you will find some of my latest projects made for study cases and some template Apps ready to be customized. Please, feel free to make Forks, PRs, inform Issues or make comments. All suggestions are appreciated !
 
 - 📫 How to reach me : \
  -> [wagner.arcieri@gmail.com](mailto:wagner.arcieri@gmail.com)\
