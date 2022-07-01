@@ -2,7 +2,7 @@
 
 
 
-### Hello ! I am Wagner Arcieri, an :iphone:Android Developer. 
+### Hello ! I am Wagner Arcieri, an Android Developer. 
 ### Thanks for visiting my repositories !:green_heart:</br>
 
 
