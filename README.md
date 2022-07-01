@@ -1,5 +1,5 @@
 <img src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/androiddevelopment.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" >
-<img src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="bottom" />
 
 
 
