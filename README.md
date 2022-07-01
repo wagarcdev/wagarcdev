@@ -13,8 +13,7 @@
 Here you will find some of my latest projects made for study cases and some template Apps ready to be customized. Please, feel free to make Forks, PRs, inform Issues or make comments. All suggestions are appreciated !
 
  
-<code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  /></code><code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  /> </code>
- 
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  />
  
 📫 How to reach me : \
  -> [wagner.arcieri@gmail.com](mailto:wagner.arcieri@gmail.com)\
