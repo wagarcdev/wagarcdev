@@ -20,10 +20,10 @@ Here you will find some of my latest projects made for study cases and some temp
 
 &nbsp;
 &nbsp;
-&nbsp;
+&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" min-width="400px" max-width="400px" width="400px" align="right" />
 
 
-📫 How to reach me : <img src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" min-width="400px" max-width="400px" width="400px" align="right" />
+📫 How to reach me : 
  \
 &nbsp; 
 
