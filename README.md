@@ -1,3 +1,5 @@
+<img src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/android-developer.jpg?raw=true" min-width="400px" max-width="400px" width="400px" align="right" >
+
 - 👋 Hi, I am Wagner Arcieri !
 - 👀 I’m interested Java and Kotlin for Android Development
 - 🌱 I’m currently a undergraduate student of System Analysis and Development
