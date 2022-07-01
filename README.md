@@ -20,16 +20,15 @@ Here you will find some of my latest projects made for study cases and some temp
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
+            <span><strong>GMail</strong></span><br>
             <a href="mailto:wagner.arcieri@gmail.com"><img height=50 src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png"/></a>
             </td>
             <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
-            <a href="https://www.linkedin.com/in/wagner-arcieri/"><img width=100 src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/linkedin-512.png"/></a>
+            <span><strong>LinkedIn</strong></span><br>
+            <a href="https://www.linkedin.com/in/wagner-arcieri/"><img width=100 src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"/></a>
             </td>            
         </tr>
         
-    </tbody>
 </table>
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/wagner-arcieri/"><img width=100 src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/linkedin-512.png"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:wagner.arcieri@gmail.com"><img height=50 src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png"/>
