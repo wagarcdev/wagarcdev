@@ -18,17 +18,11 @@ Here you will find some of my latest projects made for study cases and some temp
 <a href="https://www.linkedin.com/in/wagner-arcieri/"><img height=50 src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/></a><a href="mailto:wagner.arcieri@gmail.com"><img height=50 src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png"/>
 </a></br>
 
- 
-
-          
-
-
-
 &nbsp;
 &nbsp;
 
  
-<img width=400 src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="left" />
+<img width=450 src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="left" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  />&nbsp;&nbsp;&nbsp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> 
 
