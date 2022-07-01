@@ -5,6 +5,8 @@
 ### Hello ! I am Wagner Arcieri, an Android Developer. 
 ### Thanks for visiting my repositories !</br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark"/>
+
 &nbsp;
 
 
