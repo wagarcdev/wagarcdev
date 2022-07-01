@@ -1,5 +1,5 @@
 - 👋 Hi, I am Wagner Arcieri !
-- 👀 I’m interested in Learning C, C++, Java and Kotlin for App Development
+- 👀 I’m interested Java and Kotlin for Android Development
 - 🌱 I’m currently a undergraduate student of System Analysis and Development
 - 💞️ I’m looking to collaborate on whatever I can
 - 📫 How to reach me -> wagner.arcieri@gmail.com
