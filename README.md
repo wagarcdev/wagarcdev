@@ -5,6 +5,8 @@
 ### Hello ! I am Wagner Arcieri, an Android Developer. 
 ### Thanks for visiting my repositories !</br>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+
 
 &nbsp;
 
