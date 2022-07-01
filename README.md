@@ -22,9 +22,9 @@ Here you will find some of my latest projects made for study cases and some temp
 &nbsp;
 
 
-📫 How to reach me : \
+📫 How to reach me : <img src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" min-width="400px" max-width="400px" width="400px" align="right" />
+ \
 &nbsp; 
-<img src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" min-width="400px" max-width="400px" width="400px" align="right" />
 
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/wagner-arcieri/"><img height=50 src="https://cdn2.iconfinder.com/data/icons/social-micon/512/linkedin-512.png"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:wagner.arcieri@gmail.com"><img height=50 src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png"/>
