@@ -1,4 +1,4 @@
-<a><img src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/androiddevelopment.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" ><a>
+<img src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/androiddevelopment.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" >
 
 ### Hello human! I am Wagner Arcieri, an Android Developer. 
 ### Thanks for visiting my repositories !</br>
