@@ -15,7 +15,7 @@ Here you will find some of my latest projects made for study cases and some temp
 &nbsp;
 
 📫 How to reach me : \
-&nbsp; \
+&nbsp; 
 <table width="320px">
     <tbody>
         <tr valign="top">
