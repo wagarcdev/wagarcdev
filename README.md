@@ -1,4 +1,4 @@
-<img src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/buildingapp.png?raw=true" min-width="400px" max-width="400px" width="400px" align="right" >
+<img src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/buildingapp.png?raw=true" height="400px" align="right" >
 
 
 ### Hello ! 
