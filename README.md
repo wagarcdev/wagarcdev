@@ -14,13 +14,15 @@ Here you will find some of my latest projects made for study cases and some temp
 
 &nbsp;
  
-<img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  /><img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  /><img height=75 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
           
 
  <img src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="left" />
 
 
 &nbsp;
+&nbsp;
+
  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 How to reach me : \
