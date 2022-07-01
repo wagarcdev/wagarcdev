@@ -6,11 +6,11 @@
 
 - 👀 I’m interested Java and Kotlin for Android Development
 - 🌱 I’m currently a undergraduate student of System Analysis and Development
-- 💞️ I’m looking to collaborate on whatever I can
+- 💞️ I’m looking to collaborate on whatever I can</br>
 
 - 📫 How to reach me :
  -> [wagner.arcieri@gmail.com](mailto:wagner.arcieri@gmail.com)
- -> [LinkedIn](https://www.linkedin.com/in/wagner-arcieri/)
+ -> [LinkedIn](https://www.linkedin.com/in/wagner-arcieri/)</br>
 
 
 <!---
