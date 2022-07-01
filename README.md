@@ -17,7 +17,7 @@ Here you will find some of my latest projects made for study cases and some temp
  -> [wagner.arcieri@gmail.com](mailto:wagner.arcieri@gmail.com)\
  -> [LinkedIn](https://www.linkedin.com/in/wagner-arcieri/)</br>
  
- <img src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="bottom|right" />
+ <img src="https://github-readme-stats.vercel.app/api?username=wagarcdev&show_icons=true&theme=dark" align="right" />
 
 
 
