@@ -16,7 +16,7 @@ Here you will find some of my latest projects made for study cases and some temp
 
 📫 How to reach me : \
 &nbsp;\
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/wagner-arcieri/"><img height=40 src="https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-512.png"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:wagner.arcieri@gmail.com"><img height=50 src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png"/>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/wagner-arcieri/"><img height=40 src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/linkedin-512.png"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:wagner.arcieri@gmail.com"><img height=50 src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png"/>
 </a></br>
 
 &nbsp;
