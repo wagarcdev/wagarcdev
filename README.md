@@ -12,7 +12,7 @@
 
           
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=50 src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/ktor.png?raw=true" />  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=50 src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/androidstudio.svg?raw=true"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=50 src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/java.svg?raw=true"  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=50 src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/kotlin.svg?raw=true" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=50 src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/ktor.png?raw=true" />  
 
 
 
