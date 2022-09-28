@@ -1,4 +1,3 @@
-<img src="https://github.com/wagarcdev/wagarcdev/blob/main/blob/androiddevelopment.png?raw=true" height="400px" align="right" >
 
 
 ### Hello ! 
