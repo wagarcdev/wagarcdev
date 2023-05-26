@@ -1,7 +1,7 @@
 
 
 ### Hello ! 
-### I am Wagner Arcieri, an Android Developer. 
+### I am Wagner Arcieri, an Android and BackEnd Developer. (soon fullstack) 
 ### Thanks for visiting my repositories !:green_heart:</br>
 
 &nbsp;
