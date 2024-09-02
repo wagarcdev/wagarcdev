@@ -151,6 +151,8 @@ Os módulos podem ser construídos e testados de forma independente. Devido à f
 
 A seguir uma imagem representando os módulos do aplicativo e suas relações de dependência.
 
+![](https://github.com/wagarcdev/wagarcdev/blob/main/blob/picpay/pattern_diff.png)
+
 **TODO    TODO   IMAGEM**
 **TODO    TODO   IMAGEM**
 **TODO    TODO   IMAGEM**
