@@ -66,6 +66,7 @@ Diante da liberdade de refatorar o projeto todo à vontade, para garantir a conc
 ## Demonstração
 
 [![](https://img.youtube.com/vi/ZxyjjXZtLII/0.jpg)](https://www.youtube.com/watch?v=ZxyjjXZtLII)
+
 (video hospedado no YouTube, clique para assistir)
 
 ## 🛣️ Etapas do projeto
