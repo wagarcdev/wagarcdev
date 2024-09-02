@@ -8,7 +8,7 @@ Este repositório contém minha sugetão de solução para o desafio técnico An
 > [!NOTE]  
 >Esse aplicativo não faz parte de um processo seletivo e foi desenvolvido de livre e espontânea vontade por mim, Wagner Arcieri. Foi inteiramente desenvolvido com Kotlin e Jetpack Compose e segue as melhores práticas de design e desenvolvimento do Android. Contruído com objetivos de estudos pessoais assim como contribuir com a comunidade podendo ser usado como repositório aberto, em Português, para estudos e aberto à sugestões de quaisquer outros desenvolvedores que se interessarem. *
 
-> [!NOTA]  
+> [!NOTE]  
 > Esse README é um trabalho contínuo🚧.
 
 ## 📜 Descrição original do desafio
@@ -165,7 +165,7 @@ A seguir uma imagem representando os módulos do aplicativo e suas relações de
 ## Arquitetura
 Esse aplicativo segue o guia fornecido pela documentação oficial do Google para Android com práticas e arquiteturas e para a criação de apps robustos com alta qualidade de produção, você pode encontrar mais informações sobre [aqui](https://developer.android.com/topic/architecture?hl=pt-br)
 
-> [!NOTA]  
+> [!NOTE]  
 > A arquitetura oficial do Android é diferente de outras arquiteturas, como a "Clean Architecture". Conceitos de outras arquiteturas podem não se aplicar aqui, ou ser aplicados de maneiras diferentes.
 
 **Quais são os benefícios da orientação oficial do Android em relação à Arquitetura Limpa?**
