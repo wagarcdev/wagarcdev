@@ -5,7 +5,7 @@ Bem-vindo ao meu **Desafio PicPay**!
 
 Este repositório contém minha sugetão de solução para o desafio técnico Android proposto pelo PicPay. 
 
-> [!NOTA]  
+> [!NOTE]  
 >Esse aplicativo não faz parte de um processo seletivo e foi desenvolvido de livre e espontânea vontade por mim, Wagner Arcieri. Foi inteiramente desenvolvido com Kotlin e Jetpack Compose e segue as melhores práticas de design e desenvolvimento do Android. Contruído com objetivos de estudos pessoais assim como contribuir com a comunidade podendo ser usado como repositório aberto, em Português, para estudos e aberto à sugestões de quaisquer outros desenvolvedores que se interessarem. *
 
 > [!NOTA]  
