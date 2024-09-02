@@ -65,10 +65,7 @@ Diante da liberdade de refatorar o projeto todo à vontade, para garantir a conc
 
 ## Demonstração
 
-<source src="https://rr2---sn-jvhhjvg2-cncl.googlevideo.com/videoplayback?expire=1725269797&amp;ei=xTLVZu_NLtKZobIP6vKSkAE&amp;ip=2804%3A8324%3A1e%3A1950%3Ac412%3Ade33%3A9aab%3A7a0c&amp;id=o-AOWSe4gvzGw_3r4sKh1jdD1TKElqOvIh35hX7NRofLaM&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;xpc=EgVo2aDSNQ%3D%3D&amp;mh=bW&amp;mm=31%2C29&amp;mn=sn-jvhhjvg2-cncl%2Csn-bg0s7n7d&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=2&amp;pcm2cms=yes&amp;pl=33&amp;gcr=br&amp;initcwndbps=1043750&amp;bui=AQmm2ew47iS-Uo2UghHOZXr6uNqrXzhuWBMdoae5dSXwnuhoULKYDWT1j7Fd_h-TgGIs178xI4aTyMvO&amp;spc=Mv1m9sd57tbXNmP2eq2DwEbqfqROMMy9-SQ6f7fp34mFjuPG0x1xqVB-WbixOaM&amp;vprv=1&amp;svpuc=1&amp;mime=video%2Fmp4&amp;ns=GV7WUFgGsvBYqfCM9fIQ6qEQ&amp;rqh=1&amp;gir=yes&amp;clen=2529324&amp;ratebypass=yes&amp;dur=60.480&amp;lmt=1725247351145163&amp;mt=1725247743&amp;fvip=4&amp;c=WEB&amp;sefc=1&amp;txp=6310224&amp;n=SNflAP6HgnwjWg&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cgcr%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&amp;lsig=ABPmVW0wRgIhAL9125jBX0SGSisOihCs0q457J-rRsh4bFqatdYt1NsGAiEAwmAFHApBVYcI1FlCExTv8qvyydZ4MykQjKeza4Pc6oM%3D&amp;sig=AJfQdSswRgIhAN_oJ4ebnpDg3klIKQ_eLMQiV3moPjDM8LjQbl73wbkOAiEA_tyUlx2XsVID6IMb4lX-IBq2SSlXVqCmzpcqvQyBIRk%3D&amp;title=JustAList" type="video/mp4">
-
-https://www.youtube.com/watch?v=ZxyjjXZtLII
-
+[![](https://img.youtube.com/vi/ZxyjjXZtLII/0.jpg)](https://www.youtube.com/watch?v=ZxyjjXZtLII)
 
 **TODO    TODO   IMAGEM**
 **TODO    TODO   IMAGEM**
