@@ -151,14 +151,7 @@ Os módulos podem ser construídos e testados de forma independente. Devido à f
 
 A seguir uma imagem representando os módulos do aplicativo e suas relações de dependência.
 
-![](https://github.com/wagarcdev/wagarcdev/blob/main/blob/picpay/pattern_diff.png)
-
-**TODO    TODO   IMAGEM**
-**TODO    TODO   IMAGEM**
-**TODO    TODO   IMAGEM**
-**TODO    TODO   IMAGEM**
-
-
+![](https://github.com/wagarcdev/wagarcdev/blob/main/blob/picpay/modulos.png)
 
 ## Arquitetura
 Esse aplicativo segue o guia fornecido pela documentação oficial do Google para Android com práticas e arquiteturas e para a criação de apps robustos com alta qualidade de produção, você pode encontrar mais informações sobre [aqui](https://developer.android.com/topic/architecture?hl=pt-br)
@@ -179,11 +172,7 @@ Esse aplicativo segue o guia fornecido pela documentação oficial do Google par
 
 As diferenças são destacadas em vermelho abaixo:
 
-**TODO    TODO   IMAGEM**
-**TODO    TODO   IMAGEM**
-**TODO    TODO   IMAGEM**
-**TODO    TODO   IMAGEM**
-
+![](https://github.com/wagarcdev/wagarcdev/blob/main/blob/picpay/pattern_diff.png)
 
 ### Objetivos e requisitos
 Os objetivos para a arquitetura do aplicativo são:
@@ -209,10 +198,7 @@ Quando o aplicativo é executado pela primeira vez, ele tentará carregar uma li
 
 O diagrama a seguir mostra os eventos que ocorrem e como os dados fluem dos objetos relevantes para atingir isso.
 
-**TODO    TODO   IMAGEM**
-**TODO    TODO   IMAGEM**
-**TODO    TODO   IMAGEM**
-**TODO    TODO   IMAGEM**
+![](https://github.com/wagarcdev/wagarcdev/blob/main/blob/picpay/data_flow.png)
 
 ### Camada de Dados
 
