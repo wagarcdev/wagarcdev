@@ -5,6 +5,9 @@ Bem-vindo ao meu **Desafio PicPay**!
 
 Este repositório contém minha sugetão de solução para o desafio técnico Android proposto pelo PicPay. 
 
+<div style="border-left: 4px solid #f39c12; padding: 10px; background-color: #f9f9f9; margin: 10px 0;">
+  <strong>DICA:</strong> Esta é uma dica personalizada com uma barrinha colorida lateral.
+</div>
 
 <div style="border-left: 4px solid #f39c12; padding: 10px; background-color: #f9f9f9; margin: 10px 0;">
   <p><strong>Avisos:</strong></p>
