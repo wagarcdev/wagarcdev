@@ -5,6 +5,15 @@ Bem-vindo ao meu **Desafio PicPay**!
 
 Este repositório contém minha sugetão de solução para o desafio técnico Android proposto pelo PicPay. 
 
+<div class="ghd-alert ghd-alert-attention ghd-spotlight-attention">
+<p><strong>Avisos:</strong></p>
+<ul>
+<li>Após uma alteração de nome de usuário, os commits verificados assinados usando o endereço de email <code>noreply</code> anterior fornecido pelo GitHub perderão o status "Verificado".</li>
+<li>Ao verificar uma assinatura, o GitHub verifica se o endereço de email do autor do commit ou da tag corresponde exatamente a um dos endereços de email associados às identidades da chave GPG. Além disso, o GitHub confirma se o endereço de email foi verificado e se ele está vinculado à conta do usuário. Isso garante que a chave pertence a você e que você é o criador do commit ou da tag. Como o nome de usuário do endereço de email <code>noreply</code> muda, esses commits não podem mais ser verificados.</li>
+</ul>
+</div>
+
+
 <div class="custom-note">
   <strong>Minha Dica:</strong> Esta é uma dica personalizada.
 </div>
