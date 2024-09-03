@@ -5,6 +5,9 @@ Bem-vindo ao meu **Desafio PicPay**!
 
 Este repositório contém minha sugetão de solução para o desafio técnico Android proposto pelo PicPay. 
 
+![DICA](https://img.shields.io/badge/DICA-Importante-yellow) Aqui vai uma dica importante.
+
+
 <div style="border-left: 4px solid #f39c12; padding: 10px; background-color: #f9f9f9; margin: 10px 0;">
   <strong>DICA:</strong> Esta é uma dica personalizada com uma barrinha colorida lateral.
 </div>
