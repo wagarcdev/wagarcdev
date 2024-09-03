@@ -6,20 +6,7 @@ Bem-vindo ao meu **Desafio PicPay**!
 Este repositório contém minha sugetão de solução para o desafio técnico Android proposto pelo PicPay. 
 
 
-<style>
-.custom-note {
-    border-left: 4px solid #f39c12; /* Cor da barrinha */
-    padding: 10px;
-    background-color: #f9f9f9; /* Cor de fundo */
-    margin: 10px 0;
-}
-
-.custom-note strong {
-    color: #f39c12; /* Cor do texto do título */
-}
-</style>
-
-<div class="custom-note">
+<div style="border-left: 4px solid #f39c12; padding: 10px; background-color: #f9f9f9; margin: 10px 0;">
 <p><strong>Avisos:</strong></p>
 <ul>
 <li>Após uma alteração de nome de usuário, os commits verificados assinados usando o endereço de email <code>noreply</code> anterior fornecido pelo GitHub perderão o status "Verificado".</li>
